@@ -9,4 +9,5 @@ https://github.com/mjackson/expect
 Cara menggunakannya?
 
 chmod +x remote.sh
+
 ./remote.sh
